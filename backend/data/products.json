@@ -1,0 +1,686 @@
+[
+  {
+    "id": "1",
+    "name": "Algida Max Buz Parmak",
+    "amount": "5 x 60 ml",
+    "price": "₺37,50",
+    "category": "icescream",
+    "subCategory": "packages",
+    "image": "https://market-product-images-cdn.getirapi.com/product/d350f282-83d8-45ab-af43-4e4a1f9508fd.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/d350f282-83d8-45ab-af43-4e4a1f9508fd.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Nogger Çikolata Kaymak Paketi",
+    "amount": "3'lü",
+    "discountPrice": "₺104,97",
+    "price": "₺92,50",
+    "category": "icescream",
+    "subCategory": "packages",
+    "image": "https://market-product-images-cdn.getirapi.com/product/08da65dc-eb9b-4dc0-b57c-afe8849f15cd.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/08da65dc-eb9b-4dc0-b57c-afe8849f15cd.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Magnum Euphoria & Chill Paketi",
+    "amount": "4 Ürün",
+    "discountPrice": "₺179,96",
+    "price": "₺159,95",
+    "category": "icescream",
+    "subCategory": "rod",
+    "image": "https://market-product-images-cdn.getirapi.com/product/934f0f4c-b597-43f6-af20-dda4c4362054.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/934f0f4c-b597-43f6-af20-dda4c4362054.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Algida Classics Paketi",
+    "amount": "4 Ürün",
+    "discountPrice": "₺59,96",
+    "price": "₺52,50",
+    "category": "icescream",
+    "subCategory": "rod",
+    "image": "https://market-product-images-cdn.getirapi.com/product/886ea28b-dedf-463e-98d2-37986293c78a.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/886ea28b-dedf-463e-98d2-37986293c78a.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Algida Bar Paketi",
+    "amount": "3 Ürün",
+    "discountPrice": "₺89,98",
+    "price": "₺74,99",
+    "category": "icescream",
+    "subCategory": "bar",
+    "image": "https://market-product-images-cdn.getirapi.com/product/6034be8e-8010-4f34-a120-41807c93abc9.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/6034be8e-8010-4f34-a120-41807c93abc9.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Do Vanilyalı ve Karamelli Sandviç Dondurma",
+    "amount": "130 g",
+    "price": "₺69,99",
+    "category": "icescream",
+    "subCategory": "bar",
+    "image": "https://market-product-images-cdn.getirapi.com/product/db81101e-c308-4926-979d-0c85223958ab.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/db81101e-c308-4926-979d-0c85223958ab.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Kuzeyden Su",
+    "amount": "330 ml",
+    "price": "₺12,20",
+    "category": "drinks",
+    "subCategory": "water",
+    "image": "https://market-product-images-cdn.getirapi.com/product/2d72b49a-2678-4924-bbfd-5d548c2adf57.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/2d72b49a-2678-4924-bbfd-5d548c2adf57.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Kuzeyden Su",
+    "amount": "12 x 330 ml",
+    "discountPrice": "₺146,40",
+    "price": "₺105,20",
+    "category": "drinks",
+    "subCategory": "water",
+    "image": "https://market-product-images-cdn.getirapi.com/product/ed6e9d66-cfdc-41ca-b8b5-4edbea360e99.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/ed6e9d66-cfdc-41ca-b8b5-4edbea360e99.jpg"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Schweppes Mandalina",
+    "amount": "200 ml",
+    "price": "₺22,20",
+    "category": "drinks",
+    "subCategory": "gaseous",
+    "image": "https://market-product-images-cdn.getirapi.com/product/a7bcf9b0-fa0a-40e3-911b-a75c91e2adc3.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/a7bcf9b0-fa0a-40e3-911b-a75c91e2adc3.jpg"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Schweppes Mandalina",
+    "amount": "2 x 200 ml",
+    "discountPrice": "₺44,40",
+    "price": "₺21,80",
+    "category": "drinks",
+    "subCategory": "gaseous",
+    "image": "https://market-product-images-cdn.getirapi.com/product/47fe260c-0734-4547-9e22-f09a689d9285.png",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/47fe260c-0734-4547-9e22-f09a689d9285.png"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Lipton Ice Tea Şeftali Kutu",
+    "amount": "330 ml",
+    "price": "₺32,20",
+    "category": "drinks",
+    "subCategory": "ice_tea",
+    "image": "https://market-product-images-cdn.getirapi.com/product/6fe4c5ef-6067-433c-ba26-2a7cb14b5ed0.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/6fe4c5ef-6067-433c-ba26-2a7cb14b5ed0.jpg"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Lipton Ice Tea Limon Kutu",
+    "amount": "330 ml",
+    "price": "₺32,20",
+    "category": "drinks",
+    "subCategory": "ice_tea",
+    "image": "https://market-product-images-cdn.getirapi.com/product/2f574613-8129-4f90-a976-2bdf65252b00.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/2f574613-8129-4f90-a976-2bdf65252b00.jpg"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Exotic Portakal Suyu",
+    "amount": "300 ml",
+    "discountPrice": "₺63,60",
+    "price": "₺47,70",
+    "category": "drinks",
+    "subCategory": "juice",
+    "image": "https://market-product-images-cdn.getirapi.com/product/ae10386d-b926-48c0-ad7c-5bd94b98b079.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/ae10386d-b926-48c0-ad7c-5bd94b98b079.jpg"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Exotic Portakal & Nar Suyu",
+    "amount": "300 ml",
+    "discountPrice": "₺71,60",
+    "price": "₺53,70",
+    "category": "drinks",
+    "subCategory": "juice",
+    "image": "https://market-product-images-cdn.getirapi.com/product/1716271b-8aba-44c6-80fb-47ee9da39de6.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/1716271b-8aba-44c6-80fb-47ee9da39de6.jpg"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Jacobs Monarch Gold",
+    "amount": "100 g",
+    "discountPrice": "₺216,50",
+    "price": "₺173,20",
+    "category": "drinks",
+    "subCategory": "coffee",
+    "image": "http://cdn.getir.com/product/5ce65821fd9b330001c4a97e_tr_1609396775490.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/5ce65821fd9b330001c4a97e_tr_1609396775490.jpeg"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Kurukahveci Mehmet Efendi Türk Kahvesi",
+    "amount": "100 g",
+    "price": "₺60,50",
+    "category": "drinks",
+    "subCategory": "coffee",
+    "image": "http://cdn.getir.com/product/55e6bdd04ef8d40c00d1f91d_tr_1604492371848.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/55e6bdd04ef8d40c00d1f91d_tr_1604492371848.jpeg"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Lipton Yellow Label Bardak Poşet Çay",
+    "amount": "25'li",
+    "price": "₺83,30",
+    "category": "drinks",
+    "subCategory": "tea",
+    "image": "http://cdn.getir.com/product/559831ecb1dc700c006a71b4_tr_1584028750154.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/559831ecb1dc700c006a71b4_tr_1584028750154.jpeg"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Lipton Yellow Label Bardak Poşet Çay",
+    "amount": "100'lü",
+    "price": "₺266,40",
+    "category": "drinks",
+    "subCategory": "tea",
+    "image": "https://market-product-images-cdn.getirapi.com/product/39786592-126d-48b8-83ba-eee754927b3b.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/39786592-126d-48b8-83ba-eee754927b3b.jpg"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Doritos Shots Paketi",
+    "amount": "3 Adet",
+    "price": "₺32,97",
+    "category": "snacks",
+    "subCategory": "chips",
+    "image": "https://market-product-images-cdn.getirapi.com/product/1693a132-6b44-4640-8241-c5ae3ac8b9bc.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/1693a132-6b44-4640-8241-c5ae3ac8b9bc.jpg"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Ruffles Originals Patates Cipsi Süper Boy",
+    "amount": "107 g",
+    "price": "₺38,99",
+    "category": "snacks",
+    "subCategory": "chips",
+    "image": "https://market-product-images-cdn.getirapi.com/product/b3a49501-8d15-4a95-a450-67edd9b7b1de.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/b3a49501-8d15-4a95-a450-67edd9b7b1de.jpg"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Ülker Çikolatalı Gofrety",
+    "amount": "36 g",
+    "price": "₺11,70",
+    "category": "snacks",
+    "subCategory": "wafer",
+    "image": "https://market-product-images-cdn.getirapi.com/product/b782e559-e389-4db5-bb91-356b7c14970c.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/b782e559-e389-4db5-bb91-356b7c14970c.jpg",
+      "https://market-product-images-cdn.getirapi.com/product/b27fe40b-647d-4887-9409-46e59516b44c.jpg",
+      "https://market-product-images-cdn.getirapi.com/product/b6a77bd3-16b6-4ac9-bfbb-f7675cf2ebe2.jpg",
+      "https://market-product-images-cdn.getirapi.com/product/9665610d-4289-4355-b664-880c1d3cd047.jpg",
+      "https://market-product-images-cdn.getirapi.com/product/0c69093c-5ff4-44ad-826a-e40b6ab2c20e.jpg"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Kinder Bueno",
+    "amount": "43 g",
+    "price": "₺38,30",
+    "category": "snacks",
+    "subCategory": "wafer",
+    "image": "http://cdn.getir.com/product/5ce65820fd9b330001c4a936_tr_1604906508099.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/5ce65820fd9b330001c4a936_tr_1604906508099.jpeg"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Ülker Albeni Karamelli Tablet Çikolata",
+    "amount": "86 g",
+    "discountPrice": "₺35,60",
+    "price": "₺17,50",
+    "category": "snacks",
+    "subCategory": "chocolate_tablets",
+    "image": "https://market-product-images-cdn.getirapi.com/product/89927b08-33fc-45e6-8e8d-4fb13af1b850.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/89927b08-33fc-45e6-8e8d-4fb13af1b850.jpg"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Schogetten Yogurt Çilek",
+    "amount": "100 g",
+    "price": "₺110,95",
+    "category": "snacks",
+    "subCategory": "chocolate_tablets",
+    "image": "https://market-product-images-cdn.getirapi.com/product/40c1811f-c2a8-4755-b300-8978def851a5.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/40c1811f-c2a8-4755-b300-8978def851a5.jpg"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Kokteyl Domates",
+    "amount": "500 g",
+    "price": "₺79,99",
+    "category": "vegetable_fruit",
+    "subCategory": "vegetable",
+    "image": "https://market-product-images-cdn.getirapi.com/product/a0c9b5fd-4ca7-46cb-addb-7146aa8768b0.png",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/a0c9b5fd-4ca7-46cb-addb-7146aa8768b0.png",
+      "https://market-product-images-cdn.getirapi.com/product/95783b09-abe4-482e-af6e-099329cc45f3.jpeg"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Üzüm",
+    "amount": "500 g",
+    "price": "₺51,50",
+    "category": "vegetable_fruit",
+    "subCategory": "fruit",
+    "image": "https://market-product-images-cdn.getirapi.com/product/0c001b57-c98c-49fc-a780-d351e091bac4.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/0c001b57-c98c-49fc-a780-d351e091bac4.jpg"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Yaban Mersini",
+    "amount": "125 g",
+    "price": "₺134,99",
+    "category": "vegetable_fruit",
+    "subCategory": "fruit",
+    "image": "https://cdn.getir.com/product/yabanmersini_5e6752bc9769bdd390e9bd43.png",
+    "images": [
+      "https://cdn.getir.com/product/yabanmersini_5e6752bc9769bdd390e9bd43.png",
+      "https://market-product-images-cdn.getirapi.com/product/9561b7c1-da10-47bb-a16e-96ab376da96d.jpg",
+      "https://market-product-images-cdn.getirapi.com/product/64df047f-3c73-4cd4-89fb-0a7772550122.jpg"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Eker Efsane Yoğurt",
+    "amount": "350 g",
+    "price": "₺30,99",
+    "category": "dairy_products",
+    "subCategory": "yogurt",
+    "image": "https://market-product-images-cdn.getirapi.com/product/982de90e-817a-4a5e-ac46-d3f924863e56.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/982de90e-817a-4a5e-ac46-d3f924863e56.jpg"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Sek Çiftlik Kaymaksız Yoğurt",
+    "amount": "450 g",
+    "price": "₺37,70",
+    "category": "dairy_products",
+    "subCategory": "yogurt",
+    "image": "http://cdn.getir.com/product/5d03bb6736e4a5000117bbf3_tr_1608043938879.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/5d03bb6736e4a5000117bbf3_tr_1608043938879.jpeg"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Eker Probiyotik Ayran",
+    "amount": "195 ml",
+    "price": "₺8,70",
+    "category": "dairy_products",
+    "subCategory": "ayran",
+    "image": "http://cdn.getir.com/product/5d70c4fd8bc0cb00010cd010_tr_1604781635747.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/5d70c4fd8bc0cb00010cd010_tr_1604781635747.jpeg"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Eker Ayran",
+    "amount": "293 ml",
+    "price": "₺18,30",
+    "category": "dairy_products",
+    "subCategory": "ayran",
+    "image": "http://cdn.getir.com/product/5ee8b4e650f6470187dbba00_tr_1605471852228.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/5ee8b4e650f6470187dbba00_tr_1605471852228.jpeg"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Sütaş Yayık Tereyağı",
+    "amount": "250 g",
+    "discountPrice": "₺136,50",
+    "price": "₺121,95",
+    "category": "dairy_products",
+    "subCategory": "butter",
+    "image": "http://cdn.getir.com/product/58233dbfd9a3db0004e65a9b_tr_1611238383869.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/58233dbfd9a3db0004e65a9b_tr_1611238383869.jpeg",
+      "http://cdn.getir.com/product/58233dbfd9a3db0004e65a9b_dd248b8e-3088-4325-8848-5f83d36758b5.jpeg"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Sek Tereyağı",
+    "amount": "100 g",
+    "discountPrice": "₺59,99",
+    "price": "₺53,99",
+    "category": "dairy_products",
+    "subCategory": "butter",
+    "image": "https://market-product-images-cdn.getirapi.com/product/037c6d2b-53d2-46a0-86ca-b136ea952da3.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/037c6d2b-53d2-46a0-86ca-b136ea952da3.jpg"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Patatesli Rulo Börek & Cola Zero İkilisi",
+    "amount": "2 Ürün",
+    "discountPrice": "₺57,79",
+    "price": "₺46,60",
+    "category": "oven",
+    "subCategory": "fresh_oven",
+    "image": "https://market-product-images-cdn.getirapi.com/product/e6863c16-67da-4123-93e4-5a8a3682646e.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/e6863c16-67da-4123-93e4-5a8a3682646e.jpg"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Ispanaklı Börek & Cola Zero İkilisi",
+    "amount": "2 Ürün",
+    "discountPrice": "₺57,79",
+    "price": "₺46,60",
+    "category": "oven",
+    "subCategory": "fresh_oven",
+    "image": "https://market-product-images-cdn.getirapi.com/product/22727bd7-88f8-4353-8268-30b063c53fc0.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/22727bd7-88f8-4353-8268-30b063c53fc0.jpg"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "İhe Ay Çekirdekli Mini Galeta",
+    "amount": "200 g",
+    "price": "₺38,90",
+    "category": "oven",
+    "subCategory": "bakery_products",
+    "image": "https://market-product-images-cdn.getirapi.com/product/f6bf7c0d-c271-4aa5-b3f3-53415d20ab54.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/f6bf7c0d-c271-4aa5-b3f3-53415d20ab54.jpg"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "İhe Tereyağlı & Susamlı Kurabiye",
+    "amount": "230 g",
+    "price": "₺38,90",
+    "category": "oven",
+    "subCategory": "bakery_products",
+    "image": "https://market-product-images-cdn.getirapi.com/product/15b616bc-3ad1-4abe-ae43-1d972a1cdeb0.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/15b616bc-3ad1-4abe-ae43-1d972a1cdeb0.jpg"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Oba Yüksük Makarna",
+    "amount": "500 g",
+    "discountPrice": "₺21,99",
+    "price": "₺15,50",
+    "category": "staple_food",
+    "subCategory": "pasta",
+    "image": "https://market-product-images-cdn.getirapi.com/product/aaa31280-2533-467a-a6e9-8c3c13884a1d.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/aaa31280-2533-467a-a6e9-8c3c13884a1d.jpg"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Mutlu Burgu Makarna",
+    "amount": "500 g",
+    "discountPrice": "21,60",
+    "price": "₺15,99",
+    "category": "staple_food",
+    "subCategory": "pasta",
+    "image": "http://cdn.getir.com/product/6197badbd89cec3cfbab668d_tr_1637825662629.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/6197badbd89cec3cfbab668d_tr_1637825662629.jpeg"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Çiftçi Kırık Pirinç",
+    "amount": "1 kg",
+    "price": "₺28,50",
+    "category": "staple_food",
+    "subCategory": "rice",
+    "image": "https://market-product-images-cdn.getirapi.com/product/52f84957-2aff-4e27-8bdd-d12b3103387e.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/52f84957-2aff-4e27-8bdd-d12b3103387e.jpg"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Yayla Tane Tane Pirinç",
+    "amount": "1 kg",
+    "price": "₺79,99",
+    "category": "staple_food",
+    "subCategory": "rice",
+    "image": "https://market-product-images-cdn.getirapi.com/product/40828a4e-c56d-4968-80d2-7487622e8515.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/40828a4e-c56d-4968-80d2-7487622e8515.jpg",
+      "https://market-product-images-cdn.getirapi.com/product/aa52723e-3c46-479d-981e-b84e61dd9059.jpg"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Tamek Domates Salçası",
+    "amount": "830 g",
+    "discountPrice": "₺64,40",
+    "price": "₺48,50",
+    "category": "staple_food",
+    "subCategory": "tomato_paste",
+    "image": "https://market-product-images-cdn.getirapi.com/product/80adc38d-b87e-447c-89a3-68a9ce59047b.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/80adc38d-b87e-447c-89a3-68a9ce59047b.jpg"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Tat Domates Salçası",
+    "amount": "830 g",
+    "price": "₺49,99",
+    "category": "staple_food",
+    "subCategory": "tomato_paste",
+    "image": "https://market-product-images-cdn.getirapi.com/product/7024ace0-2ea0-413a-96bb-dd2fdf2d1a95.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/7024ace0-2ea0-413a-96bb-dd2fdf2d1a95.jpg"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "CP Orta Boy Yumurta",
+    "amount": "6'lı",
+    "discountPrice": "₺62,70",
+    "price": "₺55,99",
+    "category": "breakfast",
+    "subCategory": "egg",
+    "image": "http://cdn.getir.com/product/5ced48284a8a2a000137da2c_tr_1560683380399.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/5ced48284a8a2a000137da2c_tr_1560683380399.jpeg"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Kumartaşlı Orta Boy Organik Yumurta",
+    "amount": "6'lı",
+    "price": "₺72,80",
+    "category": "breakfast",
+    "subCategory": "egg",
+    "image": "http://cdn.getir.com/product/60752ffea499335ccba1d241_tr_1618412551644.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/60752ffea499335ccba1d241_tr_1618412551644.jpeg"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "İçim Dilimli Tost Peyniri",
+    "amount": "1,5 kg",
+    "price": "₺249,95",
+    "category": "breakfast",
+    "subCategory": "cheese",
+    "image": "https://market-product-images-cdn.getirapi.com/product/2209d36b-fbe9-448e-917c-aafa32b4e2cd.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/2209d36b-fbe9-448e-917c-aafa32b4e2cd.jpg"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Mandıradan Edirne Beyaz Peynir",
+    "amount": "350 g",
+    "price": "₺226,50",
+    "category": "breakfast",
+    "subCategory": "cheese",
+    "image": "https://market-product-images-cdn.getirapi.com/product/4132a48c-448d-4312-aaae-c81f73d80cd3.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/4132a48c-448d-4312-aaae-c81f73d80cd3.jpg",
+      "http://cdn.getir.com/product/61bb3d6046c7e1132e0b72f6_07001719-85d9-4ddc-ace2-7caedae10382.jpeg",
+      "https://market-product-images-cdn.getirapi.com/product/8e984cb7-ccb1-4c5e-b7a9-7e6f0ec35be0.jpg"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Rem Çizik Yeşil Zeytin (291-320)",
+    "amount": "450 g",
+    "price": "₺125,20",
+    "category": "breakfast",
+    "subCategory": "olive",
+    "image": "https://market-product-images-cdn.getirapi.com/product/a5b26710-4166-44f8-9155-08c6113edd5f.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/a5b26710-4166-44f8-9155-08c6113edd5f.jpg"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Marmarabirlik Siyah Gurme Zeytin (261-290)",
+    "amount": "400 g",
+    "price": "₺179,95",
+    "category": "breakfast",
+    "subCategory": "olive",
+    "image": "http://cdn.getir.com/product/5cf00cd5cc444f0001d34bec_tr_1645175717810.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/5cf00cd5cc444f0001d34bec_tr_1645175717810.jpeg"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Mr. NO Jambon & Cheddar Mega Sandviç",
+    "amount": "230 g",
+    "discountPrice": "₺198,95",
+    "price": "₺145,99",
+    "category": "food",
+    "subCategory": "sandwich",
+    "image": "https://market-product-images-cdn.getirapi.com/product/050a2267-6332-4861-acf6-472837999da2.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/050a2267-6332-4861-acf6-472837999da2.jpg",
+      "http://cdn.getir.com/product/5ced482a4a8a2a000137da42_tr_1577436233589.jpeg"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Mr. NO Gurme Tavuk Teriyaki Sandviç",
+    "amount": "220 g",
+    "discountPrice": "₺158,95",
+    "price": "₺116,99",
+    "category": "food",
+    "subCategory": "sandwich",
+    "image": "https://market-product-images-cdn.getirapi.com/product/8c96bf18-d13b-4395-b076-b3a65719a78e.jpeg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/8c96bf18-d13b-4395-b076-b3a65719a78e.jpeg",
+      "https://market-product-images-cdn.getirapi.com/product/b45979e2-7400-4642-ab57-9bd2558b9684.jpeg",
+      "https://market-product-images-cdn.getirapi.com/product/b9b33200-e1d2-4ed8-93ea-7ddba0849b7d.jpeg"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "PEK Lahmacun & Coca-Cola Paketi",
+    "amount": "2 Ürün",
+    "discountPrice": "₺187,39",
+    "price": "₺156,20",
+    "category": "food",
+    "subCategory": "frozen",
+    "image": "https://market-product-images-cdn.getirapi.com/product/0fbde4af-dfae-4b76-9b10-3de5f4296e81.jpg",
+    "images": [
+      "https://market-product-images-cdn.getirapi.com/product/0fbde4af-dfae-4b76-9b10-3de5f4296e81.jpg"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "SuperFresh Pizza King",
+    "amount": "4'lü",
+    "price": "₺244,10",
+    "category": "food",
+    "subCategory": "frozen",
+    "image": "http://cdn.getir.com/product/59477b2a93463800043cb05f_tr_1615544941923.jpeg",
+    "images": [
+      "http://cdn.getir.com/product/59477b2a93463800043cb05f_tr_1615544941923.jpeg"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Patlıcan",
+    "amount": "1 kg",
+    "price": "₺79,99",
+    "category": "vegetable_fruit",
+    "subCategory": "vegetable",
+    "image": "https://cdn.getir.com/product/patlican_5ced482a4a8a2a000137da47.png",
+    "images": [
+      "https://cdn.getir.com/product/patlican_5ced482a4a8a2a000137da47.png",
+      "https://market-product-images-cdn.getirapi.com/product/f1183eae-b1dd-4e07-ba67-e7663811338e.jpg"
+    ]
+  }
+]
